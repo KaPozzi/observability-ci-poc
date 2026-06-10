@@ -1,5 +1,31 @@
 [
   {
+    "id": "13125616705",
+    "type": "PushEvent",
+    "actor": {
+      "id": 110647374,
+      "login": "KaPozzi",
+      "display_login": "KaPozzi",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/KaPozzi",
+      "avatar_url": "https://avatars.githubusercontent.com/u/110647374?"
+    },
+    "repo": {
+      "id": 1265377187,
+      "name": "KaPozzi/observability-ci-poc",
+      "url": "https://api.github.com/repos/KaPozzi/observability-ci-poc"
+    },
+    "payload": {
+      "repository_id": 1265377187,
+      "push_id": 35414445797,
+      "ref": "refs/heads/main",
+      "head": "0df4a01ee88abd46e7d727f6247f2eeaae606406",
+      "before": "e34829d1f7cb01306ee02d215090d19cf8960f37"
+    },
+    "public": true,
+    "created_at": "2026-06-10T19:01:06Z"
+  },
+  {
     "id": "13123478488",
     "type": "PushEvent",
     "actor": {
