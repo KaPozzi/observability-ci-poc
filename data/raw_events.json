@@ -1,0 +1,55 @@
+[
+  {
+    "id": "13123478488",
+    "type": "PushEvent",
+    "actor": {
+      "id": 110647374,
+      "login": "KaPozzi",
+      "display_login": "KaPozzi",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/KaPozzi",
+      "avatar_url": "https://avatars.githubusercontent.com/u/110647374?"
+    },
+    "repo": {
+      "id": 1265377187,
+      "name": "KaPozzi/observability-ci-poc",
+      "url": "https://api.github.com/repos/KaPozzi/observability-ci-poc"
+    },
+    "payload": {
+      "repository_id": 1265377187,
+      "push_id": 35412329143,
+      "ref": "refs/heads/main",
+      "head": "e34829d1f7cb01306ee02d215090d19cf8960f37",
+      "before": "da88ce81b5041cdba0d02aa4b377a7e45e63aeeb"
+    },
+    "public": true,
+    "created_at": "2026-06-10T18:14:52Z"
+  },
+  {
+    "id": "13123142615",
+    "type": "CreateEvent",
+    "actor": {
+      "id": 110647374,
+      "login": "KaPozzi",
+      "display_login": "KaPozzi",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/KaPozzi",
+      "avatar_url": "https://avatars.githubusercontent.com/u/110647374?"
+    },
+    "repo": {
+      "id": 1265377187,
+      "name": "KaPozzi/observability-ci-poc",
+      "url": "https://api.github.com/repos/KaPozzi/observability-ci-poc"
+    },
+    "payload": {
+      "ref": "main",
+      "ref_type": "branch",
+      "full_ref": "refs/heads/main",
+      "master_branch": "main",
+      "description": null,
+      "pusher_type": "user"
+    },
+    "public": true,
+    "created_at": "2026-06-10T18:07:39Z"
+  }
+]

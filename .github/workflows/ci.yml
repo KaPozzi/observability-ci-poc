@@ -1,0 +1,20 @@
+name: CI Test Workflow
+
+on:
+  push:
+    branches:
+      - main
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+
+      - name: Print message
+        run: echo "Running CI pipeline..."
+
+      - name: Simulate work
+        run: sleep 5

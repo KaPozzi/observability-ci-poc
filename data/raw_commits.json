@@ -1,0 +1,160 @@
+[
+  {
+    "sha": "e34829d1f7cb01306ee02d215090d19cf8960f37",
+    "node_id": "C_kwDOS2wfo9oAKGUzNDgyOWQxZjdjYjAxMzA2ZWUwMmQyMTUwOTBkMTljZjg5NjBmMzc",
+    "commit": {
+      "author": {
+        "name": "KaPozzi",
+        "email": "kapozzi@gmail.com",
+        "date": "2026-06-10T18:13:31Z"
+      },
+      "committer": {
+        "name": "KaPozzi",
+        "email": "kapozzi@gmail.com",
+        "date": "2026-06-10T18:13:31Z"
+      },
+      "message": "init structure",
+      "tree": {
+        "sha": "2375c4ab5fdb59e730f5e6083871579b29278cab",
+        "url": "https://api.github.com/repos/KaPozzi/observability-ci-poc/git/trees/2375c4ab5fdb59e730f5e6083871579b29278cab"
+      },
+      "url": "https://api.github.com/repos/KaPozzi/observability-ci-poc/git/commits/e34829d1f7cb01306ee02d215090d19cf8960f37",
+      "comment_count": 0,
+      "verification": {
+        "verified": false,
+        "reason": "unsigned",
+        "signature": null,
+        "payload": null,
+        "verified_at": null
+      }
+    },
+    "url": "https://api.github.com/repos/KaPozzi/observability-ci-poc/commits/e34829d1f7cb01306ee02d215090d19cf8960f37",
+    "html_url": "https://github.com/KaPozzi/observability-ci-poc/commit/e34829d1f7cb01306ee02d215090d19cf8960f37",
+    "comments_url": "https://api.github.com/repos/KaPozzi/observability-ci-poc/commits/e34829d1f7cb01306ee02d215090d19cf8960f37/comments",
+    "author": {
+      "login": "KaPozzi",
+      "id": 110647374,
+      "node_id": "U_kgDOBphYTg",
+      "avatar_url": "https://avatars.githubusercontent.com/u/110647374?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/KaPozzi",
+      "html_url": "https://github.com/KaPozzi",
+      "followers_url": "https://api.github.com/users/KaPozzi/followers",
+      "following_url": "https://api.github.com/users/KaPozzi/following{/other_user}",
+      "gists_url": "https://api.github.com/users/KaPozzi/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/KaPozzi/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/KaPozzi/subscriptions",
+      "organizations_url": "https://api.github.com/users/KaPozzi/orgs",
+      "repos_url": "https://api.github.com/users/KaPozzi/repos",
+      "events_url": "https://api.github.com/users/KaPozzi/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/KaPozzi/received_events",
+      "type": "User",
+      "user_view_type": "public",
+      "site_admin": false
+    },
+    "committer": {
+      "login": "KaPozzi",
+      "id": 110647374,
+      "node_id": "U_kgDOBphYTg",
+      "avatar_url": "https://avatars.githubusercontent.com/u/110647374?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/KaPozzi",
+      "html_url": "https://github.com/KaPozzi",
+      "followers_url": "https://api.github.com/users/KaPozzi/followers",
+      "following_url": "https://api.github.com/users/KaPozzi/following{/other_user}",
+      "gists_url": "https://api.github.com/users/KaPozzi/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/KaPozzi/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/KaPozzi/subscriptions",
+      "organizations_url": "https://api.github.com/users/KaPozzi/orgs",
+      "repos_url": "https://api.github.com/users/KaPozzi/repos",
+      "events_url": "https://api.github.com/users/KaPozzi/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/KaPozzi/received_events",
+      "type": "User",
+      "user_view_type": "public",
+      "site_admin": false
+    },
+    "parents": [
+      {
+        "sha": "da88ce81b5041cdba0d02aa4b377a7e45e63aeeb",
+        "url": "https://api.github.com/repos/KaPozzi/observability-ci-poc/commits/da88ce81b5041cdba0d02aa4b377a7e45e63aeeb",
+        "html_url": "https://github.com/KaPozzi/observability-ci-poc/commit/da88ce81b5041cdba0d02aa4b377a7e45e63aeeb"
+      }
+    ]
+  },
+  {
+    "sha": "da88ce81b5041cdba0d02aa4b377a7e45e63aeeb",
+    "node_id": "C_kwDOS2wfo9oAKGRhODhjZTgxYjUwNDFjZGJhMGQwMmFhNGIzNzdhN2U0NWU2M2FlZWI",
+    "commit": {
+      "author": {
+        "name": "Kau\u00e3 Pozzi",
+        "email": "110647374+KaPozzi@users.noreply.github.com",
+        "date": "2026-06-10T18:07:38Z"
+      },
+      "committer": {
+        "name": "GitHub",
+        "email": "noreply@github.com",
+        "date": "2026-06-10T18:07:38Z"
+      },
+      "message": "Initial commit",
+      "tree": {
+        "sha": "2d33785c049e2cad6398e87ae902228ed7e7d918",
+        "url": "https://api.github.com/repos/KaPozzi/observability-ci-poc/git/trees/2d33785c049e2cad6398e87ae902228ed7e7d918"
+      },
+      "url": "https://api.github.com/repos/KaPozzi/observability-ci-poc/git/commits/da88ce81b5041cdba0d02aa4b377a7e45e63aeeb",
+      "comment_count": 0,
+      "verification": {
+        "verified": true,
+        "reason": "valid",
+        "signature": "-----BEGIN PGP SIGNATURE-----\n\nwsFcBAABCAAQBQJqKafqCRC1aQ7uu5UhlAAAUecQAGH56Ck1SJAYfCaXi14SRqv8\nCqqc76VfHq+bwW1e3PWXaDDgjsz3vh+z39Il9ROR61wrMJ/J7f08s3tO1wooRmDZ\nFVY7vH8IWSxo9Po7BNIBhal1YqWRgwKPTbTqeU1qtnenYkY+WLRbvUrPdr19anlf\nJYNWMnciLRW5KbYhzv7WljHwnw72idgjbfW+HmkWxbtxLn/PXBQn3OAd8DP13FV7\nfwje7ML8bUHOqYtNls59lHKQ5xtd0DJKK5x7TQXoudA/ynbbUmgzAa/tbPLKPyKE\nwPmo6PSmXFFUAKzdZMHbcp/NpMyWvkkKXxUWoC5Ezvi73yTxDBUQ9uXWO/hZEJdr\n2l6CJLw8bbQLy/yI8uybfLOOdxjaivAv91VT4moIJSJmWiuAgkr+4Dzy63quzgI0\nzCTDY3EMSNOoc+sXhyvZFGUHqqx3s9JdlgkA9QUzpljxudQbaCLmvlb5LmVVy+Yd\n7QMbmsD73YqUB5qHVEiFD0btfkRnavICRCh+xb5RddAvZtenba3lzRRt23BteI7F\nG9kc/Y4WBbPpqh+rtw2iL/eaB3qvTOXrTY+oCA2VmNxppSdcQCitG1cVhz/a74S3\nNnPPOh8lGYId6KtDJCTw8tT/sZtSCOidugmWv9bv6/0El0H6O3GWj8juK2Kpanxa\n+V7S75+WHzjN1+FS77Qg\n=mVqU\n-----END PGP SIGNATURE-----\n",
+        "payload": "tree 2d33785c049e2cad6398e87ae902228ed7e7d918\nauthor Kau\u00e3 Pozzi <110647374+KaPozzi@users.noreply.github.com> 1781114858 -0300\ncommitter GitHub <noreply@github.com> 1781114858 -0300\n\nInitial commit",
+        "verified_at": "2026-06-10T18:07:39Z"
+      }
+    },
+    "url": "https://api.github.com/repos/KaPozzi/observability-ci-poc/commits/da88ce81b5041cdba0d02aa4b377a7e45e63aeeb",
+    "html_url": "https://github.com/KaPozzi/observability-ci-poc/commit/da88ce81b5041cdba0d02aa4b377a7e45e63aeeb",
+    "comments_url": "https://api.github.com/repos/KaPozzi/observability-ci-poc/commits/da88ce81b5041cdba0d02aa4b377a7e45e63aeeb/comments",
+    "author": {
+      "login": "KaPozzi",
+      "id": 110647374,
+      "node_id": "U_kgDOBphYTg",
+      "avatar_url": "https://avatars.githubusercontent.com/u/110647374?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/KaPozzi",
+      "html_url": "https://github.com/KaPozzi",
+      "followers_url": "https://api.github.com/users/KaPozzi/followers",
+      "following_url": "https://api.github.com/users/KaPozzi/following{/other_user}",
+      "gists_url": "https://api.github.com/users/KaPozzi/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/KaPozzi/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/KaPozzi/subscriptions",
+      "organizations_url": "https://api.github.com/users/KaPozzi/orgs",
+      "repos_url": "https://api.github.com/users/KaPozzi/repos",
+      "events_url": "https://api.github.com/users/KaPozzi/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/KaPozzi/received_events",
+      "type": "User",
+      "user_view_type": "public",
+      "site_admin": false
+    },
+    "committer": {
+      "login": "web-flow",
+      "id": 19864447,
+      "node_id": "MDQ6VXNlcjE5ODY0NDQ3",
+      "avatar_url": "https://avatars.githubusercontent.com/u/19864447?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/web-flow",
+      "html_url": "https://github.com/web-flow",
+      "followers_url": "https://api.github.com/users/web-flow/followers",
+      "following_url": "https://api.github.com/users/web-flow/following{/other_user}",
+      "gists_url": "https://api.github.com/users/web-flow/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/web-flow/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/web-flow/subscriptions",
+      "organizations_url": "https://api.github.com/users/web-flow/orgs",
+      "repos_url": "https://api.github.com/users/web-flow/repos",
+      "events_url": "https://api.github.com/users/web-flow/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/web-flow/received_events",
+      "type": "User",
+      "user_view_type": "public",
+      "site_admin": false
+    },
+    "parents": []
+  }
+]
